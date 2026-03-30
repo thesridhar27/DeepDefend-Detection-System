@@ -140,7 +140,8 @@ npm start
 ⚠️ Due to GitHub size limits, model files are not included.
 
 👉 Download models from:
-**[Add your Google Drive / HuggingFace link here]**
+https://drive.google.com/file/d/14Mo2deaYPzJioJwtv_OO4IrNTbsYRmFF
+
 
 Place them inside:
 
