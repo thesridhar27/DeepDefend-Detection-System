@@ -142,6 +142,7 @@ npm start
 👉 Download models from:
 https://drive.google.com/file/d/14Mo2deaYPzJioJwtv_OO4IrNTbsYRmFF
 https://drive.google.com/file/d/1bVRnrv32K5YfcIA4cmf6LNWq6x0fHFKP
+https://drive.google.com/file/d/1qIHPmpt_MUBJbJ9QEIUKpSJ4TRiis1Y5
 
 
 Place them inside:
