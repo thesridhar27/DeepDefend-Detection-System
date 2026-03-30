@@ -151,11 +151,20 @@ backend/model/
 ---
 
 ## 📸 Screenshots
-
+•	Landing Page and Login Page
 <img width="509" height="375" alt="image" src="https://github.com/user-attachments/assets/63fe9044-3fd6-4764-a983-ca51911dff8a" />
-
-
----
+•	Registration Page
+<img width="910" height="604" alt="image" src="https://github.com/user-attachments/assets/a5fd2da2-472f-4536-b072-47e709ffe445" />
+•	Dashboard
+<img width="922" height="545" alt="image" src="https://github.com/user-attachments/assets/8cfd892c-37c4-424d-a3f7-fe2ae7bb5875" />
+•	Text Scan 
+<img width="908" height="530" alt="image" src="https://github.com/user-attachments/assets/23dbacd3-e7bd-4ab2-8d23-58f0a9c908e1" />
+•	Audio Scan
+<img width="906" height="532" alt="image" src="https://github.com/user-attachments/assets/11b7d435-86ad-42e2-9ce6-eee9044d523e" />
+•	Scan History
+<img width="881" height="606" alt="image" src="https://github.com/user-attachments/assets/23f275be-cfc1-44d2-baba-8c9bb68fb5c8" />
+•	Settings Page
+<img width="900" height="618" alt="image" src="https://github.com/user-attachments/assets/ee52ed74-97ea-4ff9-98e7-7873bf349fc0" />
 
 ## 🔮 Future Enhancements
 
