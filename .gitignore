@@ -1,0 +1,25 @@
+# Node
+node_modules/
+build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional
+pdf_reports/
+
+*.h5
+*.keras
+backend/model/
