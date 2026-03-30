@@ -152,7 +152,8 @@ backend/model/
 
 ## 📸 Screenshots
 
-*Add your project screenshots here (Dashboard, Scan UI, etc.)*
+<img width="509" height="375" alt="image" src="https://github.com/user-attachments/assets/63fe9044-3fd6-4764-a983-ca51911dff8a" />
+
 
 ---
 
