@@ -18,8 +18,8 @@ def send_otp():
     email = data.get('email')
     otp = str(random.randint(100000, 999999))
 
-    sender_email = "ai.trials2024@gmail.com"
-    sender_password = "mhrfbmtallhrizzh"
+    sender_email = "your_gmail_id" //Please provide your Gmail ID 
+    sender_password = "your_gmail_app_password" //Please provide your App Password (of the above Gmail ID) not the regular Gmail password
 
     message = MIMEMultipart()
     message["From"] = sender_email
